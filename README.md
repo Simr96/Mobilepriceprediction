@@ -26,6 +26,6 @@ Results and Evaluation
 The predictive model developed in this project demonstrates good accuracy in predicting the price range of mobile phones. Key findings include:
 
 Features such as RAM, battery capacity, and camera quality have significant influence on mobile phone prices.
-The trained model achieves an accuracy of XX%, accurately classifying mobile phones into different price categories.
+The trained model achieves an accuracy of 94.4%, accurately classifying mobile phones into different price categories.
 Cross-validation and performance metrics (e.g., precision, recall, and F1-score) provide insights into the model's effectiveness.
 The project further explores potential applications for the predictive model, such as assisting customers in making informed purchasing decisions or supporting businesses in pricing strategies.
